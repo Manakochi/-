@@ -1,5 +1,6 @@
 # -
 GitHub練習用。
+Repository nameを日本語にしたらこうなった。
 
 メモ
 Repository nameはそのままURLになるらしい
